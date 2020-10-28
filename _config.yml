@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : hyo
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -24,17 +24,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : hyoxang
+  image             : ../img/seq_02.gif
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : hyoxang@gmail.com
   facebook          : your_username
-  github            : your_username
+  github            : https://github.com/hyoxang
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : https://www.linkedin.com/in/hyo-sang-hwang-b539a887/
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
